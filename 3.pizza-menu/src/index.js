@@ -83,6 +83,7 @@ function Menu(){
        name='Pizza Funghi'
        ingredient='Tomato, mushrooms'
        photoName='pizzas/funghi.jpg'
+       
        price={150}/>
   </main>
   )};
